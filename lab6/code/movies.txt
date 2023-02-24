@@ -1,0 +1,22 @@
+Artur
+comedy 2011
+Blade Runner
+action 1982
+Matrix
+action 1999
+Zombies
+horror 2018
+Dracula
+	thriller 1992
+Fight Club
+drama 1999
+  Seven
+drama 1995
+Apocalypse Now
+drama 1979
+Taxi Driver
+drama 1976
+Monty Python and the Holy Grail
+comedy 1975
+Tootsie
+comedy 1982

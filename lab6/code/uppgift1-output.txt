@@ -1,0 +1,32 @@
+Apocalypse Now
+Year: 1979	Type: drama
+
+Artur
+Year: 2011	Type: comedy
+
+Blade Runner
+Year: 1982	Type: action
+
+Dracula
+Year: 1992	Type: thriller
+
+Fight Club
+Year: 1999	Type: drama
+
+Matrix
+Year: 1999	Type: action
+
+Monty Python and the Holy Grail
+Year: 1975	Type: comedy
+
+Seven
+Year: 1995	Type: drama
+
+Taxi Driver
+Year: 1976	Type: drama
+
+Tootsie
+Year: 1982	Type: comedy
+
+Zombies
+Year: 2018	Type: horror
